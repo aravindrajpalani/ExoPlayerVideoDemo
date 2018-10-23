@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExoPlayerVideoDemo</string>
+    <string name="media_url_mp4">http://www.storiesinflight.com/js_videosub/jellies.mp4</string>
+    <string name="media_url_srt">http://www.storiesinflight.com/js_videosub/jellies.srt</string>
+</resources>
